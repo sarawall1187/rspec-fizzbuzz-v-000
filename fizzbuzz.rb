@@ -5,7 +5,6 @@ def fizzbuzz(int)
  puts "#{"nil"} when the number is not divisible by 3 or 5"
 end
 
-def fizz
   
 
 
